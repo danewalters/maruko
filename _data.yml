@@ -9,7 +9,7 @@ extra_head: []
 # Metas plugin https://lume.land/plugins/metas/#description
 metas:
   site: Dane Blog
-  description: General description of the blog
+  description: Stand out, stay curious!
   title: "=title"
   image: "=image"
   twitter: "@username"
