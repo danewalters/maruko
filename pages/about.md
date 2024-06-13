@@ -7,4 +7,5 @@ menu:
   order: 2
 ---
 
-I don’t have a personal introduction yet (I don’t know how to introduce myself, haha), but I may write one when I have time.
+I don’t have a personal introduction yet (I don’t know how to introduce myself,
+haha), but I may write one when I have time.
